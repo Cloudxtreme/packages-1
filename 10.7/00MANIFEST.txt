@@ -124,7 +124,7 @@ lftp-4.6.0-0.pkg
 libao-1.1.0-3.pkg
 libdnet-1.12-0.pkg
 libev-4.15-0.pkg
-libevent-2.0.21-0.pkg
+libevent-2.0.22-0.pkg
 libidn-1.26-0.pkg
 libidn-1.28-1.pkg
 libintl-0.18.2.1-0.pkg
@@ -255,6 +255,7 @@ sqlite-3.7.17-0.pkg
 squid-2.7-1.pkg
 ssldump-0.9b3-5.pkg
 static-gettext-0.19.4-0.pkg
+static-libevent-2.0.22-0.pkg
 stunnel-4.56-0.pkg
 subversion-1.7.8-0.pkg
 subversion-1.8.0-0.pkg
