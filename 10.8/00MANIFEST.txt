@@ -32,10 +32,7 @@ cabextract-1.6-0.pkg
 cadaver-0.23.3-5.pkg
 cairo-1.12.14-0.pkg
 cassandra-1.2.3-0.pkg
-ccache-3.1.10-0.pkg
-ccache-3.1.9-0.pkg
-ccache-3.1.9-1.pkg
-ccache-3.1.9-2.pkg
+ccache-3.2.2-0.pkg
 cflow-1.4-3.pkg
 check-0.9.10-0.pkg
 cntlm-0.92.3-1.pkg
