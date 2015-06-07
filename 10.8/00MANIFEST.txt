@@ -228,9 +228,7 @@ pil-1.1.7-2.pkg
 pillow-2.1.0-0.pkg
 pixman-0.28.2-0.pkg
 pixman-0.32.6-0.pkg
-pkg-config-0.26-2.pkg
-pkg-config-0.27-0.pkg
-pkg-config-0.28-0.pkg
+pkg-config-0.28-1.pkg
 popt-1.16-1.pkg
 portaudio-v19-0.pkg
 protobuf-2.5.0-0.pkg
