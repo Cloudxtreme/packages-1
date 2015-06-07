@@ -99,8 +99,7 @@ gcal-3.6.2-0.pkg
 gdbm-1.10-0.pkg
 genshi-0.7-0.pkg
 getopt-1.1.5-0.pkg
-gettext-0.18.3.1-0.pkg
-gettext-0.19.3-0.pkg
+gettext-0.19.4-0.pkg
 gforth-0.7.2-0.pkg
 git-1.8.3.1-0.pkg
 glib-2.34.3-0.pkg
@@ -332,6 +331,7 @@ sqlite-3.7.17-0.pkg
 squid-2.7-1.pkg
 ssldump-0.9b3-4.pkg
 ssldump-0.9b3-5.pkg
+static-gettext-0.19.4-0.pkg
 stunnel-4.56-0.pkg
 stunnel-4.56-1.pkg
 stunnel-5.01-0.pkg
