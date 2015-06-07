@@ -148,7 +148,7 @@ lua-5.2.3-1.pkg
 lua-5.3.0-0.pkg
 luajit-2.0.3-0.pkg
 lxml-3.2.3-0.pkg
-lynx-2.8.8-1.pkg
+lynx-2.8.9-1.pkg
 m4-1.4.16-2.pkg
 make-3.82-4.pkg
 markupsafe-0.18-0.pkg
