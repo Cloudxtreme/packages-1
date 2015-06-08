@@ -219,9 +219,7 @@ paramiko-1.10.1-0.pkg
 paramiko-1.7.7.1-0.pkg
 patchutils-0.3.3-0.pkg
 patchutils-0.3.4-0.pkg
-pcre-8.32-0.pkg
-pcre-8.32-1.pkg
-pcre-8.33-0.pkg
+pcre-8.37-0.pkg
 pdns-recursor-3.5.2-0.pkg
 pigz-2.3-0.pkg
 pil-1.1.7-2.pkg
@@ -278,6 +276,7 @@ ssldump-0.9b3-4.pkg
 ssldump-0.9b3-5.pkg
 static-gettext-0.19.4-0.pkg
 static-libevent-2.0.22-0.pkg
+static-pcre-8.37-0.pkg
 stunnel-4.56-0.pkg
 subversion-1.7.8-0.pkg
 subversion-1.8.0-0.pkg
