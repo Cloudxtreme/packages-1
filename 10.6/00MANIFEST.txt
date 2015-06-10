@@ -183,7 +183,6 @@ p7zip-9.20.1-1.pkg
 parallel-20130522-0.pkg
 parallel-20141122-0.pkg
 paramiko-1.10.1-0.pkg
-patchutils-0.3.3-0.pkg
 patchutils-0.3.4-0.pkg
 pcre-8.37-0.pkg
 pigz-2.3-0.pkg
