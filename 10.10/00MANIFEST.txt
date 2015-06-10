@@ -210,7 +210,7 @@ pycurl-7.19.0-2.pkg
 pygments-1.6-0.pkg
 pylibmc-1.2.3-2.pkg
 python-midi-0.2.3-0.pkg
-python-pip-6.1.1-0.pkg
+python-pip-7.0.3-0.pkg
 python-subprocess32-3.2.6-0.pkg
 python-virtualenv-12.1.1-0.pkg
 qemu-2.1.2-0.pkg
