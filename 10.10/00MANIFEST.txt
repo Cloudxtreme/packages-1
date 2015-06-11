@@ -123,7 +123,6 @@ libdnet-1.12-0.pkg
 libev-4.19-0.pkg
 libevent-2.0.22-0.pkg
 libidn-1.28-1.pkg
-libintl-0.19.3-0.pkg
 libintl-0.19.4-0.pkg
 libjpeg-9a-0.pkg
 libmemcached-1.0.18-0.pkg
@@ -242,6 +241,7 @@ static-gettext-0.19.4-0.pkg
 static-glib-2.44.1-0.pkg
 static-gmp-6.0.0a-0.pkg
 static-libevent-2.0.22-0.pkg
+static-libintl-0.19.4-0.pkg
 static-pcre-8.37-0.pkg
 stunnel-5.01-0.pkg
 subversion-1.8.10-0.pkg
