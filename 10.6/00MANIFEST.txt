@@ -74,7 +74,7 @@ getopt-1.1.5-0.pkg
 gettext-0.19.4-0.pkg
 gforth-0.7.2-0.pkg
 git-1.8.3.1-0.pkg
-glib-2.34.3-0.pkg
+glib-2.44.1-0.pkg
 gloox-1.0.3-0.pkg
 gmp-6.0.0a-0.pkg
 gnupg-1.4.19-0.pkg
@@ -230,6 +230,7 @@ squid-2.7-1.pkg
 ssldump-0.9b3-4.pkg
 ssldump-0.9b3-5.pkg
 static-gettext-0.19.4-0.pkg
+static-glib-2.44.1-0.pkg
 static-gmp-6.0.0a-0.pkg
 static-libevent-2.0.22-0.pkg
 static-pcre-8.37-0.pkg
