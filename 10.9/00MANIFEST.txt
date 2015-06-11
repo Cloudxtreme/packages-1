@@ -318,6 +318,7 @@ static-gmp-6.0.0a-0.pkg
 static-libevent-2.0.22-0.pkg
 static-libintl-0.19.4-0.pkg
 static-pcre-8.37-0.pkg
+static-readline-6.3-0.pkg
 stunnel-4.56-0.pkg
 stunnel-4.56-1.pkg
 stunnel-5.01-0.pkg

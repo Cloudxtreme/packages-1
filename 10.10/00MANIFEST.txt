@@ -243,6 +243,7 @@ static-gmp-6.0.0a-0.pkg
 static-libevent-2.0.22-0.pkg
 static-libintl-0.19.4-0.pkg
 static-pcre-8.37-0.pkg
+static-readline-6.3-0.pkg
 stunnel-5.01-0.pkg
 subversion-1.8.10-0.pkg
 supervisor-3.0b2-0.pkg
