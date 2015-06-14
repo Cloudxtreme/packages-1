@@ -43,7 +43,7 @@ ctags-5.8-8.pkg
 ctemplate-2.2-1.pkg
 cvs-1.11.23-0.pkg
 cython-0.22-0.pkg
-dash-0.5.7-1.pkg
+dash-0.5.8-0.pkg
 datamash-1.0.6-0.pkg
 db-6.0.20-0.pkg
 dfu-programmer-0.6.0-0.pkg
