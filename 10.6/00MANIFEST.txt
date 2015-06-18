@@ -251,6 +251,7 @@ tcpflow-0.21-1.pkg
 tcsh-6.18.01-0.pkg
 texinfo-5.1-0.pkg
 tig-1.2.1-0.pkg
+tig-2.1.1-0.pkg
 tload-3.2.8-1.pkg
 tmux-2.0-0.pkg
 tomcat-7.0.42-0.pkg
