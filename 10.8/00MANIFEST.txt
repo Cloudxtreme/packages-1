@@ -162,6 +162,7 @@ libyaml-0.1.5-0.pkg
 libzip-0.10.1-1.pkg
 lighttpd-1.4.32-0.pkg
 links-2.7-0.pkg
+linux-man-pages-4.00-0.pkg
 lsh-2.1-0.pkg
 lua-5.2.3-1.pkg
 lua-5.3.0-0.pkg
