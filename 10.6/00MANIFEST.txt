@@ -118,8 +118,7 @@ lftp-4.5.0-0.pkg
 libao-1.1.0-3.pkg
 libev-4.15-0.pkg
 libevent-2.0.22-0.pkg
-libidn-1.26-0.pkg
-libidn-1.28-1.pkg
+libidn-1.31-0.pkg
 libintl-0.19.4-0.pkg
 libjpeg-9a-0.pkg
 libmemcached-1.0.16-0.pkg
@@ -238,6 +237,7 @@ static-gettext-0.19.4-0.pkg
 static-glib-2.44.1-0.pkg
 static-gmp-6.0.0a-0.pkg
 static-libevent-2.0.22-0.pkg
+static-libidn-1.31-0.pkg
 static-libintl-0.19.4-0.pkg
 static-pcre-8.37-0.pkg
 static-readline-6.3-0.pkg
