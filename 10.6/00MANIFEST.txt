@@ -272,7 +272,7 @@ vstr-1.0.15-0.pkg
 wbox-5-1.pkg
 wdiff-1.2.2-0.pkg
 werkzeug-0.9.1-0.pkg
-wget-1.15-1.pkg
+wget-1.16.3-0.pkg
 wput-0.6.1-1.pkg
 xz-5.0.4-1.pkg
 xz-5.0.7-0.pkg
