@@ -192,7 +192,7 @@ nginx-1.4.2-0.pkg
 ngrep-1.45-0.pkg
 ninja-1.5.3-0.pkg
 nmap-6.40-0.pkg
-node-0.10.11-0.pkg
+node-0.12.7-0.pkg
 nspr-4.9.4-0.pkg
 ocaml-4.00.1-0.pkg
 offlineimap-6.5.4-1.pkg
