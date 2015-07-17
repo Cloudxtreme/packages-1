@@ -179,7 +179,7 @@ markupsafe-0.18-0.pkg
 mawk-1.3.4-0.pkg
 mc-4.8.7-0.pkg
 meld3-0.6.10-0.pkg
-memcached-1.4.15-0.pkg
+memcached-1.4.24-0.pkg
 mercurial-2.6-0.pkg
 mercurial_keyring-0.5.7-0.pkg
 midicsv-1.1-0.pkg
