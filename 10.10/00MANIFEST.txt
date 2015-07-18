@@ -235,7 +235,7 @@ simh-3.9-0.pkg
 slang-2.3.0-0.pkg
 slrn-1.0.2-0.pkg
 sox-14.4.1-0.pkg
-sqlite-3.7.17-0.pkg
+sqlite-3.8.10.2-0.pkg
 squid-2.7-1.pkg
 ssldump-0.9b3-5.pkg
 static-gettext-0.19.5-0.pkg
@@ -248,6 +248,7 @@ static-libmemcached-1.0.18-1.pkg
 static-neon-0.30.1-1.pkg
 static-pcre-8.37-0.pkg
 static-readline-6.3-0.pkg
+static-sqlite-3.8.10.2-0.pkg
 stunnel-5.01-0.pkg
 subversion-1.8.10-0.pkg
 supervisor-3.0b2-0.pkg
