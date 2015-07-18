@@ -183,7 +183,7 @@ nasm-2.11.05-0.pkg
 ncdu-1.10-0.pkg
 ncftp-3.2.5-4.pkg
 ne-2.5-1.pkg
-neon-0.30.1-0.pkg
+neon-0.30.1-1.pkg
 nettle-3.0-0.pkg
 nginx-1.7.2-0.pkg
 ngrep-1.45-0.pkg
@@ -245,6 +245,7 @@ static-libevent-2.0.22-0.pkg
 static-libidn-1.31-0.pkg
 static-libintl-0.19.5-0.pkg
 static-libmemcached-1.0.18-1.pkg
+static-neon-0.30.1-1.pkg
 static-pcre-8.37-0.pkg
 static-readline-6.3-0.pkg
 stunnel-5.01-0.pkg
