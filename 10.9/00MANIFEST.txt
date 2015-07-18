@@ -157,8 +157,7 @@ libevent-2.0.22-0.pkg
 libidn-1.31-0.pkg
 libintl-0.19.5-0.pkg
 libjpeg-9a-0.pkg
-libmemcached-1.0.16-0.pkg
-libmemcached-1.0.18-0.pkg
+libmemcached-1.0.18-1.pkg
 libntlm-1.3-0.pkg
 libntlm-1.4-0.pkg
 libntlm-1.4-1.pkg
@@ -318,6 +317,7 @@ static-gmp-6.0.0a-0.pkg
 static-libevent-2.0.22-0.pkg
 static-libidn-1.31-0.pkg
 static-libintl-0.19.5-0.pkg
+static-libmemcached-1.0.18-1.pkg
 static-pcre-8.37-0.pkg
 static-readline-6.3-0.pkg
 stunnel-4.56-0.pkg
