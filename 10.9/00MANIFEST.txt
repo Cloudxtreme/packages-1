@@ -194,7 +194,7 @@ luajit-2.0.3-0.pkg
 lunzip-1.4-0.pkg
 lxml-3.2.3-0.pkg
 lynx-2.8.9-1.pkg
-lzip-1.15-0.pkg
+lzip-1.17-0.pkg
 lzo-2.06-2.pkg
 lzop-1.03-0.pkg
 m4-1.4.16-2.pkg
