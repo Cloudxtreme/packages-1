@@ -33,7 +33,7 @@ clojure-1.5.1-0.pkg
 cmake-3.2.3-0.pkg
 cntlm-0.92.3-2.pkg
 colordiff-1.0.13-2.pkg
-coreutils-8.23-0.pkg
+coreutils-8.24-0.pkg
 cscope-15.8a-0.pkg
 ctags-5.8-8.pkg
 ctemplate-2.2-2.pkg
