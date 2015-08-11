@@ -45,7 +45,7 @@ cython-0.22-0.pkg
 cython-0.23-0.pkg
 dash-0.5.8-0.pkg
 datamash-1.0.6-0.pkg
-db-6.0.20-0.pkg
+db-6.1.26-0.pkg
 dfu-programmer-0.6.0-0.pkg
 dialog-1.2-0.pkg
 dos2unix-6.0.3-0.pkg
@@ -251,6 +251,7 @@ sox-14.4.1-0.pkg
 sqlite-3.8.10.2-0.pkg
 squid-2.7-1.pkg
 ssldump-0.9b3-5.pkg
+static-db-6.1.26-0.pkg
 static-gettext-0.19.5-0.pkg
 static-glib-2.44.1-0.pkg
 static-gmp-6.0.0a-0.pkg
