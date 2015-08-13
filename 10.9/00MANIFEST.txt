@@ -305,7 +305,7 @@ slang-2.2.4-1.pkg
 slang-2.2.4-2.pkg
 sox-14.4.1-0.pkg
 sqlite-3.8.10.2-0.pkg
-squid-2.7-1.pkg
+squid-3.5.7-0.pkg
 ssldump-0.9b3-4.pkg
 ssldump-0.9b3-5.pkg
 static-db-6.1.26-0.pkg
