@@ -120,7 +120,7 @@ lcms-2.6-0.pkg
 lftp-4.6.0-0.pkg
 libao-1.2.0-0.pkg
 libdnet-1.12-0.pkg
-libev-4.19-0.pkg
+libev-4.20-0.pkg
 libevent-2.0.22-0.pkg
 libidn-1.31-0.pkg
 libintl-0.19.5-0.pkg
@@ -243,6 +243,7 @@ static-db-6.1.26-0.pkg
 static-gettext-0.19.5-0.pkg
 static-glib-2.44.1-0.pkg
 static-gmp-6.0.0a-0.pkg
+static-libev-4.20-0.pkg
 static-libevent-2.0.22-0.pkg
 static-libidn-1.31-0.pkg
 static-libintl-0.19.5-0.pkg
