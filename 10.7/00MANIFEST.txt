@@ -274,6 +274,7 @@ talloc-2.1.0-0.pkg
 tar-1.27-0.pkg
 tcsh-6.18.01-0.pkg
 texinfo-5.1-0.pkg
+thttpd-2.26-0.pkg
 tig-1.1-0.pkg
 tig-2.1.1-0.pkg
 tload-3.2.8-1.pkg
