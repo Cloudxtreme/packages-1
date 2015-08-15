@@ -120,6 +120,7 @@ jasper-1.900.1-0.pkg
 jhead-2.97-0.pkg
 jinja2-2.7-0.pkg
 joe-3.7-0.pkg
+jp2a-1.0.6-0.pkg
 json-c-0.9-3.pkg
 jython-2.7-0.pkg
 keyring-1.6.1-0.pkg
