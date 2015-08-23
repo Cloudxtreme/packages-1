@@ -313,7 +313,7 @@ unison-2.40.102-0.pkg
 unrar-4.2.4-0.pkg
 valgrind-3.8.1-1.pkg
 varnish-3.0.3-0.pkg
-vifm-0.7.3a-0.pkg
+vifm-0.8-0.pkg
 vim-7.3-0.pkg
 vstr-1.0.15-0.pkg
 w3m-0.5.3-0.pkg
