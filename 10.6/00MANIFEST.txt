@@ -71,7 +71,7 @@ fping-3.10-0.pkg
 frotz-2.43-7.pkg
 gawk-4.1.0-0.pkg
 gawk-4.1.0-1.pkg
-gc-7.2-1.pkg
+gc-7.2f-0.pkg
 gcal-3.6.2-0.pkg
 gdbm-1.10-0.pkg
 genshi-0.7-0.pkg
@@ -237,6 +237,7 @@ squid-3.5.7-0.pkg
 ssldump-0.9b3-4.pkg
 ssldump-0.9b3-5.pkg
 static-db-6.1.26-0.pkg
+static-gc-7.2f-0.pkg
 static-gettext-0.19.4-0.pkg
 static-glib-2.44.1-0.pkg
 static-gmp-6.0.0a-0.pkg
