@@ -56,6 +56,7 @@ dovecot-2.1.7-1.pkg
 dtach-0.8-9.pkg
 ed-1.12-0.pkg
 elinks-0.13-2.pkg
+elixir-1.0.5-0.pkg
 epic5-1.1.6-0.pkg
 erlang-18.0-0.pkg
 expat-2.1.0-0.pkg
