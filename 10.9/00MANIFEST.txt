@@ -61,6 +61,7 @@ cython-0.23-0.pkg
 dash-0.5.8-0.pkg
 datamash-1.0.6-0.pkg
 db-6.1.26-0.pkg
+dejagnu-1.5.3-0.pkg
 dfu-programmer-0.6.0-0.pkg
 dialog-1.2-0.pkg
 dos2unix-6.0.3-0.pkg
