@@ -18,7 +18,7 @@ astyle-2.02.1-1.pkg
 astyle-2.04-0.pkg
 autoconf-2.69-1.pkg
 autoconf-2.69-2.pkg
-automake-1.14.1-0.pkg
+automake-1.15-0.pkg
 autossh-1.4c-1.pkg
 autossh-1.4d-0.pkg
 axel-2.4-0.pkg

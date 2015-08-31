@@ -13,7 +13,7 @@ asciidoc-8.6.9-0.pkg
 aspell-0.60.6.1-1.pkg
 astyle-2.04-0.pkg
 autoconf-2.69-2.pkg
-automake-1.14.1-0.pkg
+automake-1.15-0.pkg
 autossh-1.4d-0.pkg
 axel-2.4-0.pkg
 bash-4.3-2.pkg
