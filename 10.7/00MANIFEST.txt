@@ -89,8 +89,7 @@ gmp-6.0.0a-0.pkg
 gnupg-1.4.19-0.pkg
 gnuplot-4.6.3-0.pkg
 go-1.4.2-0.pkg
-gperftools-2.1-0.pkg
-gperftools-2.3-0.pkg
+gperftools-2.4-0.pkg
 gputils-1.2.0-0.pkg
 gputils-1.4.0-0.pkg
 grap-1.45-0.pkg
