@@ -262,7 +262,7 @@ static-neon-0.30.1-1.pkg
 static-pcre-8.37-0.pkg
 static-readline-6.3-0.pkg
 static-sqlite-3.8.10.2-0.pkg
-stunnel-5.01-0.pkg
+stunnel-5.23-0.pkg
 subversion-1.8.13-0.pkg
 supervisor-3.0b2-0.pkg
 swig-2.0.12-0.pkg
