@@ -96,7 +96,7 @@ grap-1.45-0.pkg
 grep-2.14-0.pkg
 guile-1.8.8-1.pkg
 gzip-1.6-0.pkg
-haproxy-1.4.24-0.pkg
+haproxy-1.5.14-0.pkg
 hello-2.8-0.pkg
 hexedit-1.2.12-7.pkg
 hoc-1.1-9.pkg

@@ -94,7 +94,7 @@ grep-2.20-0.pkg
 gsasl-1.8.0-0.pkg
 guile-1.8.8-1.pkg
 gzip-1.6-0.pkg
-haproxy-1.5.9-0.pkg
+haproxy-1.5.14-0.pkg
 hello-2.9-0.pkg
 hexedit-1.2.12-7.pkg
 hoc-1.1-9.pkg
