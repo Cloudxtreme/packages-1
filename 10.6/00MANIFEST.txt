@@ -93,7 +93,7 @@ gputils-1.4.0-0.pkg
 grap-1.45-0.pkg
 grep-2.14-0.pkg
 gsasl-1.8.0-0.pkg
-guile-1.8.8-1.pkg
+guile-1.8.8-2.pkg
 gzip-1.6-0.pkg
 haproxy-1.5.14-0.pkg
 hello-2.8-0.pkg
