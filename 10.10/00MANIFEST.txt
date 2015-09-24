@@ -211,7 +211,7 @@ pkg-config-0.28-1.pkg
 portaudio-v19-0.pkg
 protobuf-2.6.1-0.pkg
 pv-1.4.6-0.pkg
-pycrypto-2.6-1.pkg
+pycrypto-2.6.1-0.pkg
 pycurl-7.19.0-2.pkg
 pygments-1.6-0.pkg
 pylibmc-1.2.3-2.pkg

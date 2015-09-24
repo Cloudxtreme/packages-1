@@ -261,7 +261,7 @@ protobuf-2.5.0-1.pkg
 psycopg-2.5-0.pkg
 pv-1.4.6-0.pkg
 pychecker-0.8.19-3.pkg
-pycrypto-2.6-1.pkg
+pycrypto-2.6.1-0.pkg
 pycurl-7.19.0-2.pkg
 pygments-1.6-0.pkg
 pylibmc-1.2.3-2.pkg
