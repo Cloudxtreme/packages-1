@@ -222,6 +222,7 @@ pycrypto-2.6.1-0.pkg
 pycurl-7.19.0-2.pkg
 pygments-1.6-0.pkg
 pylibmc-1.2.3-2.pkg
+python-ecdsa-0.13-0.pkg
 python-midi-0.2.3-0.pkg
 python-pip-7.0.3-0.pkg
 python-pyyaml-3.11-0.pkg
