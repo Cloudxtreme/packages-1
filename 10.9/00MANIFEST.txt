@@ -244,8 +244,7 @@ p7zip-9.20.1-1.pkg
 parallel-20130522-0.pkg
 parallel-20140122-0.pkg
 parallel-20141122-0.pkg
-paramiko-1.10.1-0.pkg
-paramiko-1.7.7.1-0.pkg
+paramiko-1.15.2-0.pkg
 patchutils-0.3.4-0.pkg
 pcre-8.37-0.pkg
 pdns-recursor-3.5.2-0.pkg
