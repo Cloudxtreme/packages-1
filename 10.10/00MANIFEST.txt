@@ -110,6 +110,7 @@ imap-2007f-1.pkg
 intltool-0.50.2-0.pkg
 iperf-2.0.5-2.pkg
 irssi-0.8.17-0.pkg
+ispell-3.4.00-0.pkg
 itsdangerous-0.21-0.pkg
 jed-0.99-0.pkg
 jemalloc-4.0.0-0.pkg
