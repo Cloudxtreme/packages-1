@@ -103,6 +103,7 @@ hoc-1.1-9.pkg
 html2text-3.200.3-1.pkg
 httplib2-0.7.7-0.pkg
 httptunnel-3.3-4.pkg
+hunspell-1.3.3-1.pkg
 iftop-1.0pre2-1.pkg
 imagemagick-6.8.6-0.pkg
 imap-2007f-1.pkg
