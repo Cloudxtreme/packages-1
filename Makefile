@@ -1,4 +1,4 @@
-OSX=10.6 10.7 10.8 10.9 10.10
+OSX=10.6 10.7 10.8 10.9 10.10 10.11
 
 update_manifest:
 	@echo "Updating 00MANIFEST.txt"
