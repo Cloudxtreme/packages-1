@@ -86,6 +86,7 @@ git-1.8.3.1-0.pkg
 glib-2.44.1-0.pkg
 gloox-1.0.3-0.pkg
 gmp-6.0.0a-0.pkg
+gnuchess-6.2.2-0.pkg
 gnupg-1.4.19-0.pkg
 gnuplot-4.6.3-0.pkg
 go-1.4.2-0.pkg
