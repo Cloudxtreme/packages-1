@@ -245,6 +245,7 @@ rudix-2015.10.20-0.pkg
 rudix-2015.6.1-0.pkg
 rust-1.0.0-0.pkg
 rust-1.2.0-0.pkg
+rust-1.3.0-0.pkg
 rzip-2.1-16.pkg
 scons-2.3.0-0.pkg
 screen-4.0.3-0.pkg
