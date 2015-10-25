@@ -145,6 +145,7 @@ libpng-1.5.14-0.pkg
 librsync-0.9.7-11.pkg
 librsync-0.9.7-12.pkg
 libsigcpp-2.2.10-1.pkg
+libssh2-1.6.0-0.pkg
 libtiff-4.0.1-0.pkg
 libtool-2.4.6-0.pkg
 libtorrent-0.13.2-1.pkg
@@ -273,6 +274,7 @@ static-libidn-1.31-0.pkg
 static-libintl-0.19.5-0.pkg
 static-libjpeg-9a-0.pkg
 static-libmemcached-1.0.18-1.pkg
+static-libssh2-1.6.0-0.pkg
 static-libtool-2.4.6-0.pkg
 static-libunistring-0.9.5-0.pkg
 static-neon-0.30.1-1.pkg
