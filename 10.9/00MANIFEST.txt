@@ -231,6 +231,7 @@ ncdu-1.10-0.pkg
 ncftp-3.2.5-4.pkg
 ne-2.5-0.pkg
 ne-2.5-1.pkg
+ne-3.0.1-0.pkg
 neon-0.30.1-1.pkg
 nettle-2.7.1-0.pkg
 nettle-3.0-0.pkg
