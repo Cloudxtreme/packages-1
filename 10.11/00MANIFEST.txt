@@ -291,6 +291,7 @@ tig-2.0.3-0.pkg
 tig-2.1.1-0.pkg
 tload-3.2.8-2.pkg
 tmux-2.0-0.pkg
+tmux-2.1-0.pkg
 tomcat-7.0.42-0.pkg
 tornado-3.1-0.pkg
 trac-1.0.1-0.pkg
