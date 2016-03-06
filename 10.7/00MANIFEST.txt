@@ -145,6 +145,7 @@ liboop-1.0-0.pkg
 libpcap-1.5.3-0.pkg
 libpipeline-1.2.2-0.pkg
 libpng-1.5.14-0.pkg
+libressl-2.2.6-0.pkg
 librsync-0.9.7-11.pkg
 librsync-0.9.7-12.pkg
 libsigcpp-2.2.10-1.pkg
@@ -283,6 +284,7 @@ static-libidn-1.31-0.pkg
 static-libintl-0.19.5-0.pkg
 static-libjpeg-9a-0.pkg
 static-libmemcached-1.0.18-1.pkg
+static-libressl-2.2.6-0.pkg
 static-libssh2-1.6.0-0.pkg
 static-libtool-2.4.6-0.pkg
 static-libunistring-0.9.5-0.pkg
