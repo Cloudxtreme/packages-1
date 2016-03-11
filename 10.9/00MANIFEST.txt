@@ -306,6 +306,7 @@ rudix-2016.2.29-0.pkg
 rust-1.0.0-0.pkg
 rust-1.2.0-0.pkg
 rust-1.3.0-0.pkg
+rust-1.7.0-0.pkg
 rzip-2.1-16.pkg
 scons-2.3.0-0.pkg
 scons-2.3.1-0.pkg
