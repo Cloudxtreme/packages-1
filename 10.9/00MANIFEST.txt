@@ -396,4 +396,5 @@ yasm-1.2.0-3.pkg
 zile-2.4.11-0.pkg
 zile-2.4.9-1.pkg
 zsh-5.0.5-0.pkg
+zsh-5.2-0.pkg
 zsync-0.6.2-7.pkg
