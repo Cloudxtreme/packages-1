@@ -37,6 +37,7 @@ check-0.10.0-0.pkg
 clojure-1.5.1-0.pkg
 cmake-3.2.3-0.pkg
 cmake-3.3.2-0.pkg
+cmake-3.5.0-0.pkg
 cntlm-0.92.3-3.pkg
 colordiff-1.0.13-1.pkg
 coreutils-8.24-0.pkg
