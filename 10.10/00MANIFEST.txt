@@ -296,6 +296,7 @@ tar-1.27-0.pkg
 tcpflow-0.21-1.pkg
 tcsh-6.18.01-1.pkg
 texinfo-5.1-0.pkg
+texinfo-6.1-0.pkg
 thttpd-2.26-0.pkg
 tig-2.0.3-0.pkg
 tig-2.1.1-0.pkg
