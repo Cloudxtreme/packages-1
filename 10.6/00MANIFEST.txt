@@ -53,7 +53,7 @@ dfu-programmer-0.6.0-0.pkg
 dialog-1.2-0.pkg
 dos2unix-6.0.3-0.pkg
 dovecot-2.1.7-1.pkg
-dtach-0.8-9.pkg
+dtach-0.8-11.pkg
 ed-1.12-0.pkg
 elinks-0.13-2.pkg
 elixir-1.0.5-0.pkg
