@@ -137,7 +137,7 @@ libdnet-1.12-0.pkg
 libev-4.20-0.pkg
 libevent-2.0.22-0.pkg
 libidn-1.31-0.pkg
-libintl-0.19.5-0.pkg
+libintl-0.19.7-0.pkg
 libjpeg-9a-0.pkg
 libmemcached-1.0.18-1.pkg
 libntlm-1.4-1.pkg
@@ -277,7 +277,7 @@ static-guile-1.8.8-2.pkg
 static-libev-4.20-0.pkg
 static-libevent-2.0.22-0.pkg
 static-libidn-1.31-0.pkg
-static-libintl-0.19.5-0.pkg
+static-libintl-0.19.7-0.pkg
 static-libjpeg-9a-0.pkg
 static-libmemcached-1.0.18-1.pkg
 static-libressl-2.2.6-0.pkg

@@ -128,7 +128,7 @@ libao-1.1.0-3.pkg
 libev-4.20-0.pkg
 libevent-2.0.22-0.pkg
 libidn-1.31-0.pkg
-libintl-0.19.5-0.pkg
+libintl-0.19.7-0.pkg
 libjpeg-9a-0.pkg
 libmemcached-1.0.18-1.pkg
 libntlm-1.4-0.pkg
@@ -253,7 +253,7 @@ static-gmp-6.0.0a-0.pkg
 static-libev-4.20-0.pkg
 static-libevent-2.0.22-0.pkg
 static-libidn-1.31-0.pkg
-static-libintl-0.19.5-0.pkg
+static-libintl-0.19.7-0.pkg
 static-libjpeg-9a-0.pkg
 static-libmemcached-1.0.18-1.pkg
 static-libssh2-1.6.0-0.pkg
