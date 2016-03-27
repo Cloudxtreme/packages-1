@@ -234,6 +234,7 @@ nano-2.2.6-0.pkg
 nasm-2.11.08-0.pkg
 ncdu-1.10-0.pkg
 ncftp-3.2.5-4.pkg
+ncftp-3.2.5-5.pkg
 ne-2.5-0.pkg
 ne-2.5-1.pkg
 ne-3.0.1-0.pkg
