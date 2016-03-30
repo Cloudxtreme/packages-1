@@ -43,6 +43,7 @@ cflow-1.4-3.pkg
 cflow-1.4-4.pkg
 check-0.10.0-0.pkg
 clojure-1.5.1-0.pkg
+clojure-1.8.0-0.pkg
 cmake-3.2.3-0.pkg
 cmake-3.3.2-0.pkg
 cmake-3.5.0-0.pkg
