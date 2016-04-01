@@ -45,6 +45,7 @@ colordiff-1.0.13-1.pkg
 coreutils-8.24-0.pkg
 cscope-15.8a-0.pkg
 ctags-5.8-7.pkg
+ctags-5.8-9.pkg
 ctemplate-2.2-1.pkg
 cvs-1.11.23-0.pkg
 cython-0.22-0.pkg
