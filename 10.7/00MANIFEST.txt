@@ -43,6 +43,7 @@ cntlm-0.92.3-3.pkg
 colordiff-1.0.13-1.pkg
 coreutils-8.24-0.pkg
 cscope-15.8a-0.pkg
+cscope-15.8a-1.pkg
 ctags-5.8-7.pkg
 ctags-5.8-9.pkg
 ctemplate-2.2-1.pkg

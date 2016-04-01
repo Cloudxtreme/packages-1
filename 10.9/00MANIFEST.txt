@@ -52,6 +52,7 @@ colordiff-1.0.13-1.pkg
 colordiff-1.0.13-2.pkg
 coreutils-8.24-0.pkg
 cscope-15.8a-0.pkg
+cscope-15.8a-1.pkg
 ctags-5.8-7.pkg
 ctags-5.8-8.pkg
 ctags-5.8-9.pkg
