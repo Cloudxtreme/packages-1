@@ -248,6 +248,7 @@ python-virtualenv-15.0.0-0.pkg
 qemu-2.1.2-0.pkg
 ragel-6.9-0.pkg
 rcs-5.9.3-0.pkg
+rcs-5.9.4-0.pkg
 rdiff-backup-1.2.8-5.pkg
 readline-6.3-0.pkg
 redis-3.0.3-0.pkg
