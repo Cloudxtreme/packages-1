@@ -340,3 +340,4 @@ zlib-1.2.8-0.pkg
 zsh-5.0.7-0.pkg
 zsh-5.2-0.pkg
 zsync-0.6.2-7.pkg
+zsync-0.6.2-8.pkg
