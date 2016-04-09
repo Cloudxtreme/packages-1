@@ -49,6 +49,7 @@ ctags-5.8-7.pkg
 ctags-5.8-9.pkg
 ctemplate-2.2-1.pkg
 cvs-1.11.23-0.pkg
+cvs-1.11.23-1.pkg
 cython-0.22-0.pkg
 cython-0.23-0.pkg
 dash-0.5.8-0.pkg
