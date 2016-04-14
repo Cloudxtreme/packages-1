@@ -335,6 +335,7 @@ wbox-5-1.pkg
 wdiff-1.2.2-0.pkg
 werkzeug-0.9.1-0.pkg
 wget-1.16.3-0.pkg
+wget-1.17.1-0.pkg
 wput-0.6.2-0.pkg
 xemacs-21.5.33-0.pkg
 xmp-4.0.7-0.pkg
