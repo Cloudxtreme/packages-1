@@ -285,6 +285,7 @@ simh-3.8.1-4.pkg
 simplejson-3.3.0-0.pkg
 slang-2.2.4-1.pkg
 sox-14.4.1-0.pkg
+sqlite-3.12.2-0.pkg
 sqlite-3.8.10.2-0.pkg
 squid-3.5.7-0.pkg
 ssldump-0.9b3-5.pkg
