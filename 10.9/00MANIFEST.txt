@@ -410,6 +410,7 @@ xmp-4.0.1-0.pkg
 xmp-4.0.7-0.pkg
 xz-5.0.5-0.pkg
 xz-5.0.7-0.pkg
+xz-5.2.2-0.pkg
 yasm-1.2.0-3.pkg
 zile-2.4.11-0.pkg
 zile-2.4.9-1.pkg
