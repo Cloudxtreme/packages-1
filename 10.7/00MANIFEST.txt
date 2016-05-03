@@ -164,6 +164,7 @@ libsigcpp-2.2.10-1.pkg
 libssh2-1.6.0-0.pkg
 libtiff-4.0.1-0.pkg
 libtool-2.4.6-0.pkg
+libtool-2.4.6-1.pkg
 libtorrent-0.13.2-1.pkg
 libunistring-0.9.5-0.pkg
 libusb-1.0.9-1.pkg
@@ -308,6 +309,7 @@ static-libmemcached-1.0.18-1.pkg
 static-libressl-2.2.6-0.pkg
 static-libssh2-1.6.0-0.pkg
 static-libtool-2.4.6-0.pkg
+static-libtool-2.4.6-1.pkg
 static-libunistring-0.9.5-0.pkg
 static-neon-0.30.1-1.pkg
 static-pcre-8.37-0.pkg
